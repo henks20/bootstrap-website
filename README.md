@@ -1,4 +1,4 @@
-# Bootstrap Project
+# Bootstrap website
 
 Simple website using: 
 * HTML
