@@ -1,6 +1,6 @@
 # Bootstrap Project
 
-Simple webiste using: 
+Simple website using: 
 * HTML
 * CSS
 * Bootstrap.
